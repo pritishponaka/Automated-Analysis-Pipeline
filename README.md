@@ -1,7 +1,7 @@
 # Automated Analysis Pipeline: Diabetes Prediction
 
-**Author:** Your Name Here
-**Course/Assignment:** Automated Analysis Pipeline Exploration
+**Author:** Pritish Ponaka
+**Assignment:** Automated Analysis Pipeline Exploration
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1VOmG54RWPny1HEumAsZFq-jENF4JkpIw/view?usp=sharing)
 ---
